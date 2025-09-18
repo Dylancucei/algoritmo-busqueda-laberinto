@@ -134,3 +134,4 @@ def repetir(boton_repetir):
 dibujar_tablero(canvas_laberinto, laberinto)
 dibujar_tablero(canvas_visitados, [[0]*LAB_SIZE for _ in range(LAB_SIZE)])
 root.mainloop()
+#...
